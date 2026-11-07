@@ -65,9 +65,7 @@ The charts show **five responses** for the questions displayed on slides 5 and 6
 
 ## Original submission and attribution
 
-This repository is independently maintained and documented by **Dibyajyoti Swain** as a personal portfolio record. The source presentation identifies the original assignment as a group submission and lists the following contributors:
-
-**Aarish, Ashutosh, Dibyajyoti, Deepanshu, Dipika, and Vivaan.**
+This repository is independently maintained and documented by **Dibyajyoti Swain** as a personal portfolio record. 
 
 The original presentation is retained in `presentation/` to preserve that group-submission context. The repository does not claim that the original assignment was submitted individually or that the other contributors had no involvement.
 
